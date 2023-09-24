@@ -9,7 +9,6 @@ class IntroToObjects {
 
         f.num = 3;
         f.den = 4;
-        f.test = 7;
         
         System.out.println(f.num + " " + f.den );
 
